@@ -44,7 +44,8 @@ int main()
 			best = St[i].fio;
 		}
 	}	
-
+    int apple = 9019041;
+    cout << apple << endl;
 	cout << "The best student is " << best << endl;
 	return 0;
 }
